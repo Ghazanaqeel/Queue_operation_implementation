@@ -1,0 +1,6 @@
+c:\users\aqeel.ahmed\documents\visual studio 2012\Projects\Queue_operations\Queue_operations\bin\Debug\Queue_operations.exe.config
+c:\users\aqeel.ahmed\documents\visual studio 2012\Projects\Queue_operations\Queue_operations\obj\Debug\Queue_operations.csprojResolveAssemblyReference.cache
+c:\users\aqeel.ahmed\documents\visual studio 2012\Projects\Queue_operations\Queue_operations\bin\Debug\Queue_operations.exe
+c:\users\aqeel.ahmed\documents\visual studio 2012\Projects\Queue_operations\Queue_operations\bin\Debug\Queue_operations.pdb
+c:\users\aqeel.ahmed\documents\visual studio 2012\Projects\Queue_operations\Queue_operations\obj\Debug\Queue_operations.exe
+c:\users\aqeel.ahmed\documents\visual studio 2012\Projects\Queue_operations\Queue_operations\obj\Debug\Queue_operations.pdb
